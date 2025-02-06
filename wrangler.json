@@ -6,13 +6,10 @@
   "observability": {
     "enabled": true
   },
-  "vars": {
-    "TEQTANK_API_BASE_URL": "https://api.teqtank.com"
-  },
   "kv_namespaces": [
     {
       "binding": "TELEGRAM_BOT_SESSIONS",
       "id": "bc7c2471c9584599b322c7ba164572d7"
     }
   ]
-} 
+}
